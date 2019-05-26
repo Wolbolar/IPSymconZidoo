@@ -1,0 +1,11 @@
+{
+    "id": "{BE1A36C2-C8D5-02CA-5FF0-1EF0D8ACF5D7}",
+    "name": "Zidoo",
+    "type": 3,
+    "vendor": "Zidoo",
+    "aliases": ["Zidoo"],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "Zidoo"
+}
