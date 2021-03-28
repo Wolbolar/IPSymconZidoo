@@ -4,10 +4,9 @@
 	"name": "Zidoo",
 	"url": "https://github.com/Wolbolar/IPSymconZidoo",
 	"compatibility": {
-		"version": "5.1",
-		"date": 1491343200
+		"version": "5.5"
 	},
-	"version": "0.1",
+	"version": "0.2",
 	"build": 1,
 	"date": 0
 }
